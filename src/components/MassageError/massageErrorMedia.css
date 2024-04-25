@@ -1,0 +1,23 @@
+
+
+/* 663 */
+
+@media (max-width: 41.44em){
+    .message-info__btn-call-back{
+        width: 50%;
+    }
+    .message-info__title {
+        font-size: 1.8rem;
+    }
+}
+
+/* 480 */
+
+@media (max-width: 30em){
+    .message-info__btn-call-back{
+        width: 80%;
+    }
+    .message-info__title {
+        font-size: 1.6rem;
+    }
+}

@@ -1,0 +1,5 @@
+.filling-quiz__container-button{
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+}

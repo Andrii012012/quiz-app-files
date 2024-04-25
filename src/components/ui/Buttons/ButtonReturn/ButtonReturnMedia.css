@@ -1,0 +1,9 @@
+
+
+/* 655px */
+
+@media (max-width: 41em){
+   .message-info__btn{
+     width: 50%;
+   }
+}

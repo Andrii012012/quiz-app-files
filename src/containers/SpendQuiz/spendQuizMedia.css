@@ -1,0 +1,26 @@
+
+/*768px*/
+
+@media (max-width: 48em){
+    .go-quiz__category-field__choice-category__btn{
+        width: 80%;
+      }
+      #go-quiz-choose-category{
+         width: 70%;
+      }
+      .go-quiz-category-field__choice-category__btn{
+        width: 70%;
+      }
+}
+
+
+/* 425 */
+
+@media (max-width: 26.6875em){
+    #go-quiz-choose-category {
+        width: 100%;
+    }
+    .go-quiz-category-field__choice-category__btn{
+        width: 100%;
+      }
+}

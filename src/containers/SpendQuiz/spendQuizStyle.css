@@ -1,0 +1,29 @@
+
+#go-quiz-choose-category{
+    width: 50%;
+    font-size: 1.1rem;
+    border: 1px solid #000;
+    height: 30px;
+    border-radius: 0.4rem;
+    margin-bottom: 1em;
+  }
+
+
+
+
+  
+  .go-quiz-category-field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .go-quiz-category-field__choice-category__btn{
+    width: 50%;
+  }
+
+  .App.darkmode #go-quiz-choose-category{
+    background-color: #282830;
+    color: #fff;
+  }

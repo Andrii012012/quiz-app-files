@@ -1,0 +1,16 @@
+
+/* 390 */
+
+@media (max-width: 24.375em){
+   .question__container-button{
+        flex-direction: column;
+    }
+    .question__btn{
+        margin-right: 0rem;
+        margin-bottom: 1.2rem;
+        width: 80%;
+    }
+    .question__btn:last-child{
+        margin-bottom: 0rem;
+    }
+}

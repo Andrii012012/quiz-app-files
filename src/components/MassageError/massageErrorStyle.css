@@ -1,0 +1,19 @@
+
+
+.message-info__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.message-info__title{
+    margin: 1rem;
+    margin-top: 0rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.message-info__btn-call-back{
+    width: 50%;
+}

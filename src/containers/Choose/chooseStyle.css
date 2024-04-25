@@ -1,0 +1,48 @@
+.question__btn{ 
+    padding: 0.8125rem 2.625rem;
+    margin-right: 2rem;
+    background-color: rgb(52, 129, 102);
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    letter-spacing: 0.4px;
+    flex-basis: 3.5rem;
+  }
+
+  .question__btn{
+    transition: linear 0.3s;
+  }
+
+  .question__btn:focus{
+    box-shadow: 1px 1px 8px rgba(56, 169, 240, 0.75);
+  }
+  
+  .question__btn:last-child{
+    margin-right: 0rem;
+  }
+  
+  .question__disagree{
+    background-color: #bb1717;
+  }
+  
+  .question__container-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .question__title{
+    margin-bottom: 1.5rem;
+    margin-top: 0rem;
+  }
+
+
+  .App.darkmode .question__agree{
+    background-color: #232329;
+  }
+  
+  .App.darkmode .question__disagree{
+    background-color: #20202b;
+  }
+  
+  

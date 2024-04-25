@@ -1,0 +1,11 @@
+
+
+/* 768 */
+
+@media (max-width: 48em){
+    .collect-info__container{
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 1rem;
+      }
+}
